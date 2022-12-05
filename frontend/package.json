@@ -58,7 +58,7 @@
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.8",
     "@types/node": "^18.11.18",
-    "@types/react": "^17.0.43",
+    "@types/react": "^18.0.26",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.27.0",
     "eslint-config-next": "^13.0.3",
