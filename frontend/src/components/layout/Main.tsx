@@ -4,7 +4,7 @@ import { useMatomo } from "@jonkoops/matomo-tracker-react"
 import Header from "./Header"
 import Footer from "./Footer"
 
-const Main: FunctionComponent = ({ children }) => {
+const Main = ({ children }: { children: React.ReactNode }) => {
   const { trackPageView } = useMatomo()
 
   // Track page view
