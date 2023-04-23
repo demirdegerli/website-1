@@ -21,6 +21,7 @@ def generate_text(frontend_url="beta.flathub.org"):
         "/terms-and-conditions",
         "/languages",
         "/login",
+        "/consultants",
     ]
 
     languages = [

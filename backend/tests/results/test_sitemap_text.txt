@@ -22,6 +22,7 @@ https://beta.flathub.org/apps/com.anydesk.Anydesk
 https://beta.flathub.org/apps/com.wps.Office
 https://beta.flathub.org/apps/org.sugarlabs.Maze
 https://beta.flathub.org/badges
+https://beta.flathub.org/consultants
 https://beta.flathub.org/feeds
 https://beta.flathub.org/languages
 https://beta.flathub.org/login
@@ -52,6 +53,7 @@ https://beta.flathub.org/en-GB/apps/com.anydesk.Anydesk
 https://beta.flathub.org/en-GB/apps/com.wps.Office
 https://beta.flathub.org/en-GB/apps/org.sugarlabs.Maze
 https://beta.flathub.org/en-GB/badges
+https://beta.flathub.org/en-GB/consultants
 https://beta.flathub.org/en-GB/feeds
 https://beta.flathub.org/en-GB/languages
 https://beta.flathub.org/en-GB/login
@@ -82,6 +84,7 @@ https://beta.flathub.org/en/apps/com.anydesk.Anydesk
 https://beta.flathub.org/en/apps/com.wps.Office
 https://beta.flathub.org/en/apps/org.sugarlabs.Maze
 https://beta.flathub.org/en/badges
+https://beta.flathub.org/en/consultants
 https://beta.flathub.org/en/feeds
 https://beta.flathub.org/en/languages
 https://beta.flathub.org/en/login
@@ -112,6 +115,7 @@ https://beta.flathub.org/de/apps/com.anydesk.Anydesk
 https://beta.flathub.org/de/apps/com.wps.Office
 https://beta.flathub.org/de/apps/org.sugarlabs.Maze
 https://beta.flathub.org/de/badges
+https://beta.flathub.org/de/consultants
 https://beta.flathub.org/de/feeds
 https://beta.flathub.org/de/languages
 https://beta.flathub.org/de/login
@@ -142,6 +146,7 @@ https://beta.flathub.org/fr/apps/com.anydesk.Anydesk
 https://beta.flathub.org/fr/apps/com.wps.Office
 https://beta.flathub.org/fr/apps/org.sugarlabs.Maze
 https://beta.flathub.org/fr/badges
+https://beta.flathub.org/fr/consultants
 https://beta.flathub.org/fr/feeds
 https://beta.flathub.org/fr/languages
 https://beta.flathub.org/fr/login
@@ -172,6 +177,7 @@ https://beta.flathub.org/nb-NO/apps/com.anydesk.Anydesk
 https://beta.flathub.org/nb-NO/apps/com.wps.Office
 https://beta.flathub.org/nb-NO/apps/org.sugarlabs.Maze
 https://beta.flathub.org/nb-NO/badges
+https://beta.flathub.org/nb-NO/consultants
 https://beta.flathub.org/nb-NO/feeds
 https://beta.flathub.org/nb-NO/languages
 https://beta.flathub.org/nb-NO/login
@@ -202,6 +208,7 @@ https://beta.flathub.org/tr/apps/com.anydesk.Anydesk
 https://beta.flathub.org/tr/apps/com.wps.Office
 https://beta.flathub.org/tr/apps/org.sugarlabs.Maze
 https://beta.flathub.org/tr/badges
+https://beta.flathub.org/tr/consultants
 https://beta.flathub.org/tr/feeds
 https://beta.flathub.org/tr/languages
 https://beta.flathub.org/tr/login
@@ -232,6 +239,7 @@ https://beta.flathub.org/fi/apps/com.anydesk.Anydesk
 https://beta.flathub.org/fi/apps/com.wps.Office
 https://beta.flathub.org/fi/apps/org.sugarlabs.Maze
 https://beta.flathub.org/fi/badges
+https://beta.flathub.org/fi/consultants
 https://beta.flathub.org/fi/feeds
 https://beta.flathub.org/fi/languages
 https://beta.flathub.org/fi/login
@@ -262,6 +270,7 @@ https://beta.flathub.org/id/apps/com.anydesk.Anydesk
 https://beta.flathub.org/id/apps/com.wps.Office
 https://beta.flathub.org/id/apps/org.sugarlabs.Maze
 https://beta.flathub.org/id/badges
+https://beta.flathub.org/id/consultants
 https://beta.flathub.org/id/feeds
 https://beta.flathub.org/id/languages
 https://beta.flathub.org/id/login
@@ -292,6 +301,7 @@ https://beta.flathub.org/it/apps/com.anydesk.Anydesk
 https://beta.flathub.org/it/apps/com.wps.Office
 https://beta.flathub.org/it/apps/org.sugarlabs.Maze
 https://beta.flathub.org/it/badges
+https://beta.flathub.org/it/consultants
 https://beta.flathub.org/it/feeds
 https://beta.flathub.org/it/languages
 https://beta.flathub.org/it/login
@@ -322,6 +332,7 @@ https://beta.flathub.org/pl/apps/com.anydesk.Anydesk
 https://beta.flathub.org/pl/apps/com.wps.Office
 https://beta.flathub.org/pl/apps/org.sugarlabs.Maze
 https://beta.flathub.org/pl/badges
+https://beta.flathub.org/pl/consultants
 https://beta.flathub.org/pl/feeds
 https://beta.flathub.org/pl/languages
 https://beta.flathub.org/pl/login
@@ -352,6 +363,7 @@ https://beta.flathub.org/pt-BR/apps/com.anydesk.Anydesk
 https://beta.flathub.org/pt-BR/apps/com.wps.Office
 https://beta.flathub.org/pt-BR/apps/org.sugarlabs.Maze
 https://beta.flathub.org/pt-BR/badges
+https://beta.flathub.org/pt-BR/consultants
 https://beta.flathub.org/pt-BR/feeds
 https://beta.flathub.org/pt-BR/languages
 https://beta.flathub.org/pt-BR/login
@@ -382,6 +394,7 @@ https://beta.flathub.org/ru/apps/com.anydesk.Anydesk
 https://beta.flathub.org/ru/apps/com.wps.Office
 https://beta.flathub.org/ru/apps/org.sugarlabs.Maze
 https://beta.flathub.org/ru/badges
+https://beta.flathub.org/ru/consultants
 https://beta.flathub.org/ru/feeds
 https://beta.flathub.org/ru/languages
 https://beta.flathub.org/ru/login
@@ -412,6 +425,7 @@ https://beta.flathub.org/si/apps/com.anydesk.Anydesk
 https://beta.flathub.org/si/apps/com.wps.Office
 https://beta.flathub.org/si/apps/org.sugarlabs.Maze
 https://beta.flathub.org/si/badges
+https://beta.flathub.org/si/consultants
 https://beta.flathub.org/si/feeds
 https://beta.flathub.org/si/languages
 https://beta.flathub.org/si/login
@@ -442,6 +456,7 @@ https://beta.flathub.org/vi/apps/com.anydesk.Anydesk
 https://beta.flathub.org/vi/apps/com.wps.Office
 https://beta.flathub.org/vi/apps/org.sugarlabs.Maze
 https://beta.flathub.org/vi/badges
+https://beta.flathub.org/vi/consultants
 https://beta.flathub.org/vi/feeds
 https://beta.flathub.org/vi/languages
 https://beta.flathub.org/vi/login
@@ -472,6 +487,7 @@ https://beta.flathub.org/ar/apps/com.anydesk.Anydesk
 https://beta.flathub.org/ar/apps/com.wps.Office
 https://beta.flathub.org/ar/apps/org.sugarlabs.Maze
 https://beta.flathub.org/ar/badges
+https://beta.flathub.org/ar/consultants
 https://beta.flathub.org/ar/feeds
 https://beta.flathub.org/ar/languages
 https://beta.flathub.org/ar/login
@@ -502,6 +518,7 @@ https://beta.flathub.org/es/apps/com.anydesk.Anydesk
 https://beta.flathub.org/es/apps/com.wps.Office
 https://beta.flathub.org/es/apps/org.sugarlabs.Maze
 https://beta.flathub.org/es/badges
+https://beta.flathub.org/es/consultants
 https://beta.flathub.org/es/feeds
 https://beta.flathub.org/es/languages
 https://beta.flathub.org/es/login
@@ -532,6 +549,7 @@ https://beta.flathub.org/ja/apps/com.anydesk.Anydesk
 https://beta.flathub.org/ja/apps/com.wps.Office
 https://beta.flathub.org/ja/apps/org.sugarlabs.Maze
 https://beta.flathub.org/ja/badges
+https://beta.flathub.org/ja/consultants
 https://beta.flathub.org/ja/feeds
 https://beta.flathub.org/ja/languages
 https://beta.flathub.org/ja/login
@@ -562,6 +580,7 @@ https://beta.flathub.org/cs/apps/com.anydesk.Anydesk
 https://beta.flathub.org/cs/apps/com.wps.Office
 https://beta.flathub.org/cs/apps/org.sugarlabs.Maze
 https://beta.flathub.org/cs/badges
+https://beta.flathub.org/cs/consultants
 https://beta.flathub.org/cs/feeds
 https://beta.flathub.org/cs/languages
 https://beta.flathub.org/cs/login
@@ -592,6 +611,7 @@ https://beta.flathub.org/zh-Hans/apps/com.anydesk.Anydesk
 https://beta.flathub.org/zh-Hans/apps/com.wps.Office
 https://beta.flathub.org/zh-Hans/apps/org.sugarlabs.Maze
 https://beta.flathub.org/zh-Hans/badges
+https://beta.flathub.org/zh-Hans/consultants
 https://beta.flathub.org/zh-Hans/feeds
 https://beta.flathub.org/zh-Hans/languages
 https://beta.flathub.org/zh-Hans/login
@@ -622,6 +642,7 @@ https://beta.flathub.org/bg/apps/com.anydesk.Anydesk
 https://beta.flathub.org/bg/apps/com.wps.Office
 https://beta.flathub.org/bg/apps/org.sugarlabs.Maze
 https://beta.flathub.org/bg/badges
+https://beta.flathub.org/bg/consultants
 https://beta.flathub.org/bg/feeds
 https://beta.flathub.org/bg/languages
 https://beta.flathub.org/bg/login
@@ -652,6 +673,7 @@ https://beta.flathub.org/uk/apps/com.anydesk.Anydesk
 https://beta.flathub.org/uk/apps/com.wps.Office
 https://beta.flathub.org/uk/apps/org.sugarlabs.Maze
 https://beta.flathub.org/uk/badges
+https://beta.flathub.org/uk/consultants
 https://beta.flathub.org/uk/feeds
 https://beta.flathub.org/uk/languages
 https://beta.flathub.org/uk/login
@@ -682,6 +704,7 @@ https://beta.flathub.org/et/apps/com.anydesk.Anydesk
 https://beta.flathub.org/et/apps/com.wps.Office
 https://beta.flathub.org/et/apps/org.sugarlabs.Maze
 https://beta.flathub.org/et/badges
+https://beta.flathub.org/et/consultants
 https://beta.flathub.org/et/feeds
 https://beta.flathub.org/et/languages
 https://beta.flathub.org/et/login
@@ -712,6 +735,7 @@ https://beta.flathub.org/ca/apps/com.anydesk.Anydesk
 https://beta.flathub.org/ca/apps/com.wps.Office
 https://beta.flathub.org/ca/apps/org.sugarlabs.Maze
 https://beta.flathub.org/ca/badges
+https://beta.flathub.org/ca/consultants
 https://beta.flathub.org/ca/feeds
 https://beta.flathub.org/ca/languages
 https://beta.flathub.org/ca/login
@@ -742,6 +766,7 @@ https://beta.flathub.org/el/apps/com.anydesk.Anydesk
 https://beta.flathub.org/el/apps/com.wps.Office
 https://beta.flathub.org/el/apps/org.sugarlabs.Maze
 https://beta.flathub.org/el/badges
+https://beta.flathub.org/el/consultants
 https://beta.flathub.org/el/feeds
 https://beta.flathub.org/el/languages
 https://beta.flathub.org/el/login
@@ -772,6 +797,7 @@ https://beta.flathub.org/ta/apps/com.anydesk.Anydesk
 https://beta.flathub.org/ta/apps/com.wps.Office
 https://beta.flathub.org/ta/apps/org.sugarlabs.Maze
 https://beta.flathub.org/ta/badges
+https://beta.flathub.org/ta/consultants
 https://beta.flathub.org/ta/feeds
 https://beta.flathub.org/ta/languages
 https://beta.flathub.org/ta/login
@@ -802,6 +828,7 @@ https://beta.flathub.org/fa/apps/com.anydesk.Anydesk
 https://beta.flathub.org/fa/apps/com.wps.Office
 https://beta.flathub.org/fa/apps/org.sugarlabs.Maze
 https://beta.flathub.org/fa/badges
+https://beta.flathub.org/fa/consultants
 https://beta.flathub.org/fa/feeds
 https://beta.flathub.org/fa/languages
 https://beta.flathub.org/fa/login
@@ -832,6 +859,7 @@ https://beta.flathub.org/hi/apps/com.anydesk.Anydesk
 https://beta.flathub.org/hi/apps/com.wps.Office
 https://beta.flathub.org/hi/apps/org.sugarlabs.Maze
 https://beta.flathub.org/hi/badges
+https://beta.flathub.org/hi/consultants
 https://beta.flathub.org/hi/feeds
 https://beta.flathub.org/hi/languages
 https://beta.flathub.org/hi/login
@@ -862,6 +890,7 @@ https://beta.flathub.org/bn/apps/com.anydesk.Anydesk
 https://beta.flathub.org/bn/apps/com.wps.Office
 https://beta.flathub.org/bn/apps/org.sugarlabs.Maze
 https://beta.flathub.org/bn/badges
+https://beta.flathub.org/bn/consultants
 https://beta.flathub.org/bn/feeds
 https://beta.flathub.org/bn/languages
 https://beta.flathub.org/bn/login
@@ -892,6 +921,7 @@ https://beta.flathub.org/eo/apps/com.anydesk.Anydesk
 https://beta.flathub.org/eo/apps/com.wps.Office
 https://beta.flathub.org/eo/apps/org.sugarlabs.Maze
 https://beta.flathub.org/eo/badges
+https://beta.flathub.org/eo/consultants
 https://beta.flathub.org/eo/feeds
 https://beta.flathub.org/eo/languages
 https://beta.flathub.org/eo/login
@@ -922,6 +952,7 @@ https://beta.flathub.org/lt/apps/com.anydesk.Anydesk
 https://beta.flathub.org/lt/apps/com.wps.Office
 https://beta.flathub.org/lt/apps/org.sugarlabs.Maze
 https://beta.flathub.org/lt/badges
+https://beta.flathub.org/lt/consultants
 https://beta.flathub.org/lt/feeds
 https://beta.flathub.org/lt/languages
 https://beta.flathub.org/lt/login
@@ -952,6 +983,7 @@ https://beta.flathub.org/hr/apps/com.anydesk.Anydesk
 https://beta.flathub.org/hr/apps/com.wps.Office
 https://beta.flathub.org/hr/apps/org.sugarlabs.Maze
 https://beta.flathub.org/hr/badges
+https://beta.flathub.org/hr/consultants
 https://beta.flathub.org/hr/feeds
 https://beta.flathub.org/hr/languages
 https://beta.flathub.org/hr/login
@@ -982,6 +1014,7 @@ https://beta.flathub.org/be/apps/com.anydesk.Anydesk
 https://beta.flathub.org/be/apps/com.wps.Office
 https://beta.flathub.org/be/apps/org.sugarlabs.Maze
 https://beta.flathub.org/be/badges
+https://beta.flathub.org/be/consultants
 https://beta.flathub.org/be/feeds
 https://beta.flathub.org/be/languages
 https://beta.flathub.org/be/login
@@ -1012,6 +1045,7 @@ https://beta.flathub.org/hu/apps/com.anydesk.Anydesk
 https://beta.flathub.org/hu/apps/com.wps.Office
 https://beta.flathub.org/hu/apps/org.sugarlabs.Maze
 https://beta.flathub.org/hu/badges
+https://beta.flathub.org/hu/consultants
 https://beta.flathub.org/hu/feeds
 https://beta.flathub.org/hu/languages
 https://beta.flathub.org/hu/login
@@ -1042,6 +1076,7 @@ https://beta.flathub.org/nl/apps/com.anydesk.Anydesk
 https://beta.flathub.org/nl/apps/com.wps.Office
 https://beta.flathub.org/nl/apps/org.sugarlabs.Maze
 https://beta.flathub.org/nl/badges
+https://beta.flathub.org/nl/consultants
 https://beta.flathub.org/nl/feeds
 https://beta.flathub.org/nl/languages
 https://beta.flathub.org/nl/login
@@ -1072,6 +1107,7 @@ https://beta.flathub.org/pt/apps/com.anydesk.Anydesk
 https://beta.flathub.org/pt/apps/com.wps.Office
 https://beta.flathub.org/pt/apps/org.sugarlabs.Maze
 https://beta.flathub.org/pt/badges
+https://beta.flathub.org/pt/consultants
 https://beta.flathub.org/pt/feeds
 https://beta.flathub.org/pt/languages
 https://beta.flathub.org/pt/login
@@ -1102,6 +1138,7 @@ https://beta.flathub.org/zh-Hant/apps/com.anydesk.Anydesk
 https://beta.flathub.org/zh-Hant/apps/com.wps.Office
 https://beta.flathub.org/zh-Hant/apps/org.sugarlabs.Maze
 https://beta.flathub.org/zh-Hant/badges
+https://beta.flathub.org/zh-Hant/consultants
 https://beta.flathub.org/zh-Hant/feeds
 https://beta.flathub.org/zh-Hant/languages
 https://beta.flathub.org/zh-Hant/login
@@ -1132,6 +1169,7 @@ https://beta.flathub.org/oc/apps/com.anydesk.Anydesk
 https://beta.flathub.org/oc/apps/com.wps.Office
 https://beta.flathub.org/oc/apps/org.sugarlabs.Maze
 https://beta.flathub.org/oc/badges
+https://beta.flathub.org/oc/consultants
 https://beta.flathub.org/oc/feeds
 https://beta.flathub.org/oc/languages
 https://beta.flathub.org/oc/login
